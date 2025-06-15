@@ -13,4 +13,4 @@ My research interests lie in scientific machine learning, especially the applica
 
 I enjoy combining mathematical rigor with computational tools, and I hope to contribute to the development of interpretable and efficient methods in scientific computing. For more about my research statement, please visit [this page](research_statement.md).
 
-For those interested in my personal interests and reflections outside academia, please visit [this page](personal.html).
+For those interested in my personal interests and reflections outside academia, please visit [this page](https://hongjiejiang.github.io/hongjiejiang-nonacademical.github.io/).

@@ -9,39 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](../files/CV.pdf) to view a PDF version of my current CV.
+Click [here](../files/CV.pdf) to view the full PDF version of my current CV.
 
 Education
 ======
 **Peking University**, Yuanpei College – B.S. in Mathematics (*Sept. 2022 – Present*)  
   * GPA: 3.87/4.00, Top 3% of Class, Ranked 1st in Major
 
-Skills
-======
-**Languages**
-  * Mandarin Chinese (*Native*)
-  * English (*Fluent*)
-    
-**Programming Languages**
-  * Python, LaTeX (*Proficient*)
-  * C/C++, MATLAB (*Basic working knowledge*)
-
-**Deep Learning Frameworks**
-  * PyTorch, MindSpore, JAX  
-  * Experience with GPU-accelerated training and numerical computation
-
-**Numerical Methods**
-  * Familiarity with numerical solutions to differential equations, optimization, and methods like finite differences or finite element analysis
-
-**Theoretical Skills**
-  * Strong foundation in fundamental mathematics and physics
-
 Publications
 ======
 *None yet.*  
 *I am actively involved in research projects and expect to submit my first manuscript in the near future.*
   
-Awards
+Selected Awards
 ======
 **2024**
 
