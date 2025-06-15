@@ -19,12 +19,12 @@ Education
 Skills
 ======
 **Languages**
-	* Mandarin Chinese (Native)
-	* English (Fluent)
+  * Mandarin Chinese (*Native*)
+  * English (*Fluent*)
     
 **Programming Languages**
-	* Python, LaTeX
-	* C/C++, MATLAB
+  * Python, LaTeX (*Proficient*)
+  * C/C++, MATLAB (*Basic working knowledge*)
 
 **Deep Learning Frameworks**
   * PyTorch, MindSpore, JAX  
