@@ -18,9 +18,16 @@ Education
 
 Publications
 ======
-*None yet.*  
-*I am actively involved in research projects and expect to submit my first manuscript in the near future.*
-  
+## arXiv Preprint
+
+***PDEformer-2: A Versatile Foundation Model for Two-Dimensional Partial Differential Equations***
+
+Zhanhong Ye, Zining Liu, Bingyang Wu, **Hongjie Jiang**, Leheng Chen, Minyan Zhang, Xiang Huang, Qinghe Meng, Jingyuan Zou, Hongsheng Liu, Bin Dong  
+
+*arXiv:2507.15409v1 [math.NA] | [DOI:10.48550/arXiv.2507.15409](https://doi.org/10.48550/arXiv.2507.15409)*
+
+> Foundation model for 2D PDEs accepting computational graph inputs and outputting mesh-free solutions. Pretrained on 40TB data, it handles diverse PDE types/conditions with strong zero-shot capability. Achieves better accuracy than specialized models with <100 samples and enables efficient inverse problem solving.
+
 Selected Awards
 ======
 **2024**
