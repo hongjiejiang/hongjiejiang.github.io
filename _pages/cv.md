@@ -14,7 +14,7 @@ Click [here](../files/CV.pdf) to view the full PDF version of my current CV.
 Education
 ======
 **Peking University**, Yuanpei College – B.S. in Mathematics (*Sept. 2022 – Present* )  
-  * GPA: 3.87/4.00, Top 3% of Class, Ranked 1st in my major
+  * GPA: 3.87/4.00, Top 3% of Class, Ranked 1st in My Major
 
 Publications
 ======
