@@ -24,19 +24,16 @@ Publications
 **Foundation Neural Effective Hamiltonian for Strongly Correlated Quantum Materials**
 
 Lixing Zhang, **Hongjie Jiang**, Di Luo.
-
 [arXiv](https://arxiv.org/abs/2608.14208)
 
 **TENG-BC: Unified Time-Evolving Natural Gradient for Neural PDE Solvers with General Boundary Conditions**
 
 **Hongjie Jiang**, Di Luo.
-
 [arXiv](https://arxiv.org/abs/2603.00397)
 
 **PDEformer-2: A Versatile Foundation Model for Two-Dimensional Partial Differential Equations**
 
 Zhanhong Ye, Zining Liu, Bingyang Wu, **Hongjie Jiang**, Leheng Chen, Minyan Zhang, Xiang Huang, Qinghe Meng, Jingyuan Zou, Hongsheng Liu, Bin Dong.
-
 [arXiv](https://arxiv.org/abs/2507.15409)
 
 Selected Awards
